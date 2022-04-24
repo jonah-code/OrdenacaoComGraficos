@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650817174 source:c:\users\jonas\documents\ordencao\ordenacao\main.cpp
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+
